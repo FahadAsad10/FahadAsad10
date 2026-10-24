@@ -49,6 +49,21 @@ I'm a **BSCS student** who enjoys building useful software, learning new technol
 
 ## 🚀 Featured Projects
 
+### 🎯 ResumeFit AI
+Paste a job post and your CV: Claude scores the fit, finds missing skills and ATS keywords, and rewrites weak bullet points. Next.js · TypeScript · Claude API.
+
+🔗 [View Repository](https://github.com/FahadAsad10/resumefit-ai)
+
+### 📈 GitHub Pulse MCP
+An MCP server that gives Claude live GitHub tools: activity summaries, repo health scores and good first issues. TypeScript · MCP SDK · Vitest.
+
+🔗 [View Repository](https://github.com/FahadAsad10/github-pulse-mcp)
+
+### 💬 AskMyDocs
+Chat with your PDFs and notes, with clickable citations to the exact passage. Next.js · Claude API · streaming · prompt caching.
+
+🔗 [View Repository](https://github.com/FahadAsad10/askmydocs)
+
 ### 💰 Smart Budget Tracker
 A personal finance project focused on tracking and managing spending.
 
