@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Fahad Asad
 
-### 💻 Computer Science Student • Developer • Creative
+### 📊 Digital Economics & Business • Developer • Creative
 
-I'm a **BSCS student** who enjoys building useful software, learning new technologies, and working on creative digital projects.
+I study **Digital Economics & Business at UNIVPM** (Ancona) and build software that solves business problems: AI apps, data and forecasting tools, and APIs. I also design thumbnails, write scripts and tutor A-Level CS, Maths and Physics.
 
 [![Email](https://img.shields.io/badge/Email-m.fahadasadshaikh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fahadasadshaikh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-asad-159172297/)
@@ -17,12 +17,12 @@ I'm a **BSCS student** who enjoys building useful software, learning new technol
 
 ## 🧑‍💻 About Me
 
-- 🎓 BSCS student
-- 💡 Interested in software development and problem solving
-- ☕ Learning Java, Python and web technologies
-- 🤖 Exploring practical tools and automation
-- 🎨 Also interested in content creation, design and video editing
-- 🚀 Always building, experimenting and learning
+- 🎓 Digital Economics & Business student at UNIVPM, Ancona (A Levels: Computer Science, Maths, Physics)
+- 📈 Building business analytics: sales forecasting, customer segmentation, churn prediction
+- 🤖 Building AI apps with Next.js and the Claude API
+- ⚙️ Backend and cloud: FastAPI, PostgreSQL, Go, Docker, Kubernetes
+- 🎨 Thumbnail design, scriptwriting and video editing for creators
+- 👨‍🏫 A-Level CS, Maths and Physics tutor
 
 ---
 
