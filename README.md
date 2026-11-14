@@ -9,6 +9,7 @@ I'm a **BSCS student** who enjoys building useful software, learning new technol
 [![Email](https://img.shields.io/badge/Email-m.fahadasadshaikh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fahadasadshaikh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-asad-159172297/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01537d5162db03cc81)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fahadasad10.github.io-2ff3d6?style=for-the-badge&logo=githubpages&logoColor=black)](https://fahadasad10.github.io)
 
 </div>
 
@@ -49,6 +50,27 @@ I'm a **BSCS student** who enjoys building useful software, learning new technol
 
 ## 🚀 Featured Projects
 
+🌐 **Portfolio with case studies and live demos: [fahadasad10.github.io](https://fahadasad10.github.io)**
+
+### 📊 Business analytics
+
+### 📈 Sales Forecaster
+Forecasts 28 days of retail demand per store and category, tests promotions, and turns the forecast into a reorder plan with safety stock. Cuts weekly forecast error from 21% to 12% versus the rule of thumb. Python · scikit-learn · Streamlit.
+
+🔗 [View Repository](https://github.com/FahadAsad10/sales-forecaster) · ▶ [Live demo](https://fahadasad10.github.io/sales-forecaster/)
+
+### 🎯 Customer Segments
+RFM segmentation checked against k-means, customer lifetime value and buy-again prediction, and a marketing playbook with exportable lists for every segment. Python · pandas · scikit-learn · Streamlit.
+
+🔗 [View Repository](https://github.com/FahadAsad10/customer-segments) · ▶ [Live demo](https://fahadasad10.github.io/customer-segments/)
+
+### 📡 Churn Radar
+Predicts which subscription customers will cancel, shows the revenue at risk and ranks the retention offers that would keep them. Python · scikit-learn · Streamlit · Docker.
+
+🔗 [View Repository](https://github.com/FahadAsad10/churn-radar) · ▶ [Live demo](https://fahadasad10.github.io/churn-radar/)
+
+### 🤖 AI apps
+
 ### 🎯 ResumeFit AI
 Paste a job post and your CV: Claude scores the fit, finds missing skills and ATS keywords, and rewrites weak bullet points. Next.js · TypeScript · Claude API.
 
@@ -63,6 +85,20 @@ An MCP server that gives Claude live GitHub tools: activity summaries, repo heal
 Chat with your PDFs and notes, with clickable citations to the exact passage. Next.js · Claude API · streaming · prompt caching.
 
 🔗 [View Repository](https://github.com/FahadAsad10/askmydocs)
+
+### ⚙️ Backend & cloud
+
+### ✅ TaskHub API
+Production-style projects and tasks API with JWT auth, PostgreSQL, migrations and Docker. FastAPI · SQLAlchemy · PostgreSQL.
+
+🔗 [View Repository](https://github.com/FahadAsad10/taskhub-api)
+
+### 🔗 Snaplink
+URL shortener in Go with Redis, Prometheus metrics and Kubernetes manifests, about 13,000 requests a second per container. Go · Redis · Kubernetes.
+
+🔗 [View Repository](https://github.com/FahadAsad10/snaplink-go)
+
+### 🧰 Earlier projects
 
 ### 💰 Smart Budget Tracker
 A personal finance project focused on tracking and managing spending.
